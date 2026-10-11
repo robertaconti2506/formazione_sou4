@@ -1,0 +1,7 @@
+# Ambienti virtuali Python
+.venv/
+venv/
+env/
+
+# File macOS
+.DS_Store
